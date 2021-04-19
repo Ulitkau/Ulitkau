@@ -4,6 +4,7 @@
 - Изучаю React JS, Node JS, Express.js.
 - Моя почта: ulviyakarakhmazli@gmail.com
 - Мой телеграмм: @ulitkau
+- ![CodeWars](https://www.codewars.com/users/ulviya/badges/small)
 
 ### Стэк технологий, который я использовала
 
@@ -14,7 +15,7 @@
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
-[![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)](https://expressjs.com/ru/)
+[![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 
 ### Изучаю в данный момент
 
