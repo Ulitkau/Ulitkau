@@ -1,4 +1,4 @@
-Всем Привет |
+Всем Привет | Hi there!
 
 - Я в поиске интересных предложений
 - Изучаю React JS, Node JS, Express.js.
@@ -12,9 +12,9 @@
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
-![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
 [![MongoDB](https://shields.io/badge/-MongoDB-f9fbfa?logo=MongoDB&style=for-the-badge)](https://www.mongodb.com/)
+[![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)](https://expressjs.com/ru/)
 
 ### Изучаю в данный момент
 
